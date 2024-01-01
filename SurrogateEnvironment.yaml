@@ -1,0 +1,19 @@
+name: SurrogateModel
+channels:
+  - https://mirrors.bfsu.edu.cn/anaconda/pkgs/main
+  - conda-forge
+  - https://mirrors.bfsu.edu.cn/anaconda/pkgs/main/
+  - https://mirrors.bfsu.edu.cn/anaconda/pkgs/free/
+  - defaults
+dependencies:
+  - python=3.8.18
+  - pip
+  - pip:
+    - meshio[all]
+    - ansys-mapdl-reader
+    - pyansys
+    - ansys-dpf-post
+  - open3d=0.15.1
+  - jupyter
+  - notebook
+
