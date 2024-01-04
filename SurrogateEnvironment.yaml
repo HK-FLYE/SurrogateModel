@@ -11,8 +11,10 @@ dependencies:
   - pip:
     - meshio[all]
     - ansys-mapdl-reader
+    - ansys.mapdl.core
     - pyansys
     - ansys-dpf-post
+    
   - open3d=0.15.1
   - jupyter
   - notebook

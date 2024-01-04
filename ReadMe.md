@@ -25,3 +25,6 @@ ALLSEL
 ```
 Use RSTtoOBJ.py in an environment with ANSYS21R1 or higher installed. 
 Through DPF-post module, load simulation of rst file. (referring to this website [pymapdl](https://github.com/ansys/pymapdl/tree/6b3d6b1c27e295a709b8b0de41df1a9dccdfedff)) 
+
+
+### TIP: Windows 3D viewer may show wrong vertex and face number, check these values by txt reader.
