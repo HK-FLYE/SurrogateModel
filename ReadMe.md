@@ -2,7 +2,7 @@
 
 Build python environment with commond:
 
-`conda create --prefix="your env directory with name" -f ……\……\SurrogateEnvironment.yaml`
+`conda env create --prefix="your env directory with name" -f ……\……\SurrogateEnvironment.yaml`
 
 ## STL to obj
 
