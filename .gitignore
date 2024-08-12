@@ -32,5 +32,5 @@
 *.app
 
 #Datafiles
-pythonScrips/CWRT/
-pythonScrips/PHM2012/
+pythonScrips/CWRT/**
+pythonScrips/PHM2012/**
