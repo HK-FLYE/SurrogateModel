@@ -32,7 +32,6 @@
 *.app
 
 #Datafiles
-./pythonScrips/CWRT/**
-./pythonScrips/PHM2012/**
+./pythonScrips/**
 *.csv
 *.mat
