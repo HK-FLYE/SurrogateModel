@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+#Datafiles
+pythonScrips/CWRT/
+pythonScrips/PHM2012/
