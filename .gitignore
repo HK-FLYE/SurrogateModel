@@ -34,4 +34,3 @@
 #Datafiles
 ./pythonScrips/**
 *.csv
-*.mat
